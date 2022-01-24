@@ -10,9 +10,9 @@
 
 ## 📱🌍 Contacto
 
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][https://www.instagram.com/javiidiazglez/]
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][(javiidiazglez@gmail.com]
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javiidiazglez/)
 
@@ -56,3 +56,5 @@
 
 
 [javi]: https://www.instagram.com/javiidiazglez/
+[instagram]: https://www.instagram.com/javiidiazglez/
+[gmail]: javiidiazglez@gmail.com
