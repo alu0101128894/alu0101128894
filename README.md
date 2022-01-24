@@ -1,53 +1,38 @@
 
-## Hi there, I'm Javi!  <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
+## Hola! 👋  
+
+<img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alu0101128894)
 
-### 📈 My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu0101128894&theme=github_dark&hide_border=true)](https://github.com/alu0101128894)
+* Mi nombre es Javi, soy de España, y actualmente estoy en la Universidad de La Laguna.
+* 2017-Actualmente
+
+## Mis redes!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javiidiazglez/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]. javidiazglez@gmail.com
+
+### 📈 Lenguajes más usados!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/alu0101128894)
 
-### 🪢 Main technologies that I know
-<div style"display:flex">
-<img src="https://i.imgur.com/gMy3bJb.png" width="40px"></img>
-<img src="https://i.imgur.com/mhcx3l0.png" width="40px"></img>
-<img src="https://i.imgur.com/1ngNAlG.png" width="40px"></img>
-&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/TG1Bzty.png" width="40px"></img>
-<img src="https://i.imgur.com/jvVLg4x.png" width="40px"></img>
-<img src="https://i.imgur.com/B5sXzti.png" width="40px"></img>
-<img src="https://i.imgur.com/ihIMRzn.png" width="40px"></img>
-<img src="https://i.imgur.com/uUJwW39.png" width="40px"></img>
-&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/72GbrEQ.png" width="40px"></img>
-<img src="https://i.imgur.com/D3MOEaQ.png" width="40px"></img>
-<img src="https://i.imgur.com/YWSrEnC.png" width="40px"></img>
-&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/weYU4MI.png" width="40px"></img>
-<img src="https://i.imgur.com/dOP9Q37.png" width="40px"></img>
-<img src="https://i.imgur.com/AORuY4P.png" width="40px"></img>
-<img src="https://i.imgur.com/rSpARwt.png" width="40px"></img>
-<img src="https://i.imgur.com/Tu1TqD5.png" width="40px"></img>
-&nbsp;&nbsp;&nbsp;
+### 🚀 Habilidades!
 
-<img src="https://i.imgur.com/yV9TOpQ.png" width="40px"></img>
-<img src="https://i.imgur.com/Au9Mo7e.png" width="40px"></img>
-<img src="https://i.imgur.com/ddL7scP.png" width="40px"></img>
-</div>
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][yt]
 
-<!--
-**alu0101128894/alu0101128894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][yt]
 
-Here are some ideas to get you started:
+[<img align="left" alt="JS" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][yt]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />][yt]
 
-![dkaerit's Github Stats](https://github-readme-stats.vercel.app/api?username=alu0101128894&bg_color=30,161b22,0e1218&title_color=fff&text_color=fff&border_color=30363d&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&bg_color=30,161b22,0e1218&title_color=fff&text_color=fff&border_color=30363d&card_width=445&layout=compact)](https://github.com/alu0101128894/github-readme-stats)
--->
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />][yt]
+
+[<img align="left" alt="RUBY" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" />][yt]
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />][yt]
+
+[<img align="left" alt="JUPYTER" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />][yt]
+
+[<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />][yt]
+
+[<img align="left" alt="ASSEMBLY" width="26px" src="https://github.com/github/explore/blob/main/topics/assembly/assembly.png" />][yt]
