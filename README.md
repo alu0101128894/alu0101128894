@@ -1,13 +1,13 @@
 
-## std::cout << "Hola!;  <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
+# std::cout << "Hola!;   <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 
-### Visitantes Totales:
+## Visitantes Totales:
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=alu0101128894)
 
 
-### 💻 Web Developer
+## 💻 Web Developer
 * Mi nombre es **Javi**, soy de España, y actualmente estoy en la **Universidad de La Laguna**.
-* Fecha Inicio: 2017 - Actualmente
+* Fecha Inicio: **2017 - Actualmente**
 
 
 ## 📱🌍 Contacto
@@ -16,6 +16,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]. javidiazglez@gmail.com
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiidiazglez)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/)
 
 
 
@@ -44,13 +46,9 @@
 
 ## 📈 Estadísticas!
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alu0101128894&theme=minimal)]
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alu0101128894)]
-
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894)]
-
-[![Streak Stats ](https://github-readme-streak-stats.herokuapp.com/?user=alu0101128894)]
+![Streak Stats ](https://github-readme-streak-stats.herokuapp.com/?user=alu0101128894)
 
 
 [javi]: https://www.instagram.com/javiidiazglez/
