@@ -1,9 +1,7 @@
 
 # std::cout << "Hola!;   <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 
-## Visitantes Totales:
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=alu0101128894)
-
 
 ## 💻 Web Developer
 * Mi nombre es **Javi**, soy de España, y actualmente estoy en la **Universidad de La Laguna**.
@@ -11,23 +9,13 @@
 
 
 ## 📱🌍 Contacto
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javiidiazglez/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javiidiazglez/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]. javidiazglez@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](javiidiazglez@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiidiazglez)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/) -->
-
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][https://www.instagram.com/javiidiazglez/]
-
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][]
-
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitee" />][https://t.me/javiidiazglez]
-
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/]
-
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/)
 
 
 ## 🚀 Habilidades!
