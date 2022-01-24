@@ -44,14 +44,13 @@
 [<img align="left" alt="ASSEMBLY" width="26px" src="https://github.com/github/explore/blob/main/topics/assembly/assembly.png" />][javi]
 
 <br/>
-
+<br/>
 
 ## 📈 Estadísticas!
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&theme=github_dark&hide_border=true)
 
-![Streak Stats ](https://github-readme-streak-stats.herokuapp.com/?user=alu0101128894)
-
+![Streak Stats ](https://github-readme-streak-stats.herokuapp.com/?user=alu0101128894&theme=github_dark&hide_border=true)
 
 [javi]: https://www.instagram.com/javiidiazglez/
 [instagram]: https://www.instagram.com/javiidiazglez/
