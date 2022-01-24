@@ -8,7 +8,7 @@
 * Fecha Inicio: **2017 - Actualmente**
 
 
-## 📱🌍 Contacto
+## 📱🌍 Contacto!
 
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
@@ -49,10 +49,6 @@
 ## 📈 Estadísticas!
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
-
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&theme=github_dark&hide_border=true)
-
-![Streak Stats ](https://github-readme-streak-stats.herokuapp.com/?user=alu0101128894&theme=github_dark&hide_border=true)
 
 [javi]: https://www.instagram.com/javiidiazglez/
 [instagram]: https://www.instagram.com/javiidiazglez/
