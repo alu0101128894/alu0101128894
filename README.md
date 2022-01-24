@@ -14,13 +14,9 @@
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javiidiazglez/)
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](javiidiazglez@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiidiazglez)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/)
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][telegram]
 
 
 ## 🚀 Habilidades!
@@ -58,3 +54,5 @@
 [javi]: https://www.instagram.com/javiidiazglez/
 [instagram]: https://www.instagram.com/javiidiazglez/
 [gmail]: javiidiazglez@gmail.com
+[telegram]: https://t.me/javiidiazglez
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-javier-d%C3%ADaz-gonz%C3%A1lez-72a0b0223/
