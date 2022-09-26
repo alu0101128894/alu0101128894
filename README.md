@@ -1,7 +1,7 @@
 
 # std::cout << "Hola!;   <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 
-![visitantes](https://visitor-badge.glitch.me/badge?page_id=javiidiazglez)
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=alu0101128894)
 
 ## 💻 Web Developer
 * Mi nombre es **Javi**, soy de España, y actualmente estoy en la **Universidad de La Laguna**.
@@ -48,7 +48,7 @@
 
 ## 📈 Estadísticas!
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101128894&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=javiidiazglez&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
 [instagram]: https://www.instagram.com/javiidiazglez/
 [gmail]: javiidiazglez@gmail.com
